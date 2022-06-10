@@ -1,8 +1,7 @@
 # FoondaMate-ML-Engineer-Coding-Challenge-001
 
-# FoondaMate-ML-Engineer-Coding-Challenge-001
 ## NOTE: 
-Code has been optimized to batch process multiple email texts at once! For more detailed explanation of the code, solution and appreciation of its result on test data, please, read through the python jupyter notebook in this repository. The csv files in this repository shows the results of the algorithm on test data.
+Code has been optimized to batch process multiple email texts at once! For more detailed explanation of the code, solution and appreciation of its result on test data, please, read through the python jupyter notebook in this repository. The .csv and emails_classified.txt files in this repository show the results of the algorithm on test data supplied to the script as a python list and .txt file respectively.
 
 ## HOW TO RUN CODE
 Run the cells of the jupyter notebook in this repository on google colab or a local notebook server to appreciate the performance and result of this solution.
@@ -11,8 +10,8 @@ Use these functions in your code by moving the email_classifier.py file (post do
 
 Run code on your local computer via CLI by either passing email text as string or a path to a text file that holds a list of email texts (one email text per line). 
 
-Use `python email_classifier.py 'EMAIL TEXT'` or `python email_classifier.py 'TEXT_FILE_PATH' `.
-It returns a string as a result or saves result (in the case of a text file path passed as argument) to an output text file called 'emails_classified.txt' in the current working directory.
+Use `python Email_classifier.py 'EMAIL TEXT'` or `python Email_classifier.py 'TEXT_FILE_PATH' `.
+It returns a string as result or saves result (in the case of a text file path passed as argument) to an output text file called 'emails_classified.txt' in the current working directory.
 
 **If spacy or numpy is not installed on your local computer, please do so using the `pip` command before running this code**
 
@@ -37,7 +36,7 @@ They are:
 ## CODE IMPLEMENTATION
 The 3 points above are used to craft a solution to the problem. **I use the inbuilt POS tagger in the spacy library to get the part of speech of the words in each email.**
 
-The email_classifier.py file contains 5 functions for this task:
+The Email_classifier.py file contains 5 functions for this task:
 
 - `batch_classify()`: This is the main function. It takes input as a string of email text or list of email text. All other function calls exist within it.
 
