@@ -1,7 +1,7 @@
 # FoondaMate-ML-Engineer-Coding-Challenge-001
 
 ## NOTE: 
-Code has been optimized to batch process multiple email texts at once! For more detailed explanation of the code, solution and appreciation of its result on test data, please, read through the python jupyter notebook in this repository. The .csv and emails_classified.txt files in this repository show the results of the algorithm on test data supplied to the script as a python list and .txt file respectively.
+Code has been optimized to batch process multiple email texts at once! For more detailed explanation of the code, solution and appreciation of its result on test data, please, read through the 'Email_classifier.ipynb' python jupyter notebook in this repository. The .csv and emails_classified.txt files in this repository show the results of the algorithm on test data supplied to the script as a python list and .txt file respectively.
 
 ## HOW TO RUN CODE
 Run the cells of the jupyter notebook in this repository on google colab or a local notebook server to appreciate the performance and result of this solution.
