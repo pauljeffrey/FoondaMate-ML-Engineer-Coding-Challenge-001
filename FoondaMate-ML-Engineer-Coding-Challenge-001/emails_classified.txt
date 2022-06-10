@@ -1,0 +1,28 @@
+1	Student has shared your email.	0.0
+4	Student wants to know if your email can be shared.	0.5
+5	Student has shared your email.	0.0
+6	Student wants to know if your email can be shared.	0.5
+7	Student wants to know if your email can be shared.	1.0
+8	Student has shared your email.	0.3
+9	Student wants to know if your email can be shared.	1.0
+10	Student wants to know if your email can be shared.	0.8
+11	Student wants to know if your email can be shared.	0.8
+12	Student wants to know if your email can be shared.	0.8
+13	Student wants to know if your email can be shared.	1.0
+15	Student wants to know if your email can be shared.	0.8
+16	Student has shared your email.	0.3
+17	Student has shared your email.	0.3
+18	Student has shared your email.	0.0
+19	Student wants to know if your email can be shared.	0.8
+20	Student wants to know if your email can be shared.	0.8
+21	Student wants to know if your email can be shared.	0.8
+22	Student has shared your email.	0.3
+23	Student wants to know if your email can be shared.	1.0
+24	Student wants to know if your email can be shared.	1.0
+25	Student wants to know if your email can be shared.	0.8
+26	Student has shared your email.	0.3
+27	Student wants to know if your email can be shared.	0.8
+28	Student wants to know if your email can be shared.	0.8
+29	Student wants to know if your email can be shared.	0.8
+30	Student has shared your email.	0.0
+31	Student wants to know if your email can be shared.	0.8
